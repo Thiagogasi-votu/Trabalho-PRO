@@ -1,0 +1,26 @@
+body{
+background-image: url("../_IMAGE/shur-shu-kKvQJ6rK6S4-unsplash.jpg");
+background-position: auto;
+background-repeat: no-repeat;
+background-size: cover;
+width: 160%;
+}
+#div1{
+    box-sizing: border-box;
+    border: 1px solid black;
+    display: flex;
+    margin-left: 35%;
+}
+#header1{
+    margin-left: 14%;
+}
+#div2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#div3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
