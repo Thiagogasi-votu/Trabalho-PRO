@@ -3,28 +3,32 @@ background-image: url("../_IMAGE/shur-shu-kKvQJ6rK6S4-unsplash.jpg");
 background-position: auto;
 background-repeat: no-repeat;
 background-size: cover;
-padding-right: 0px;
-padding-top: 0px;
-padding-bottom: 0px;    
+margin-right: 0px;
+margin-top: 0px;
+margin-bottom: 0px; 
+
 }
 #div1{
+    background-color: rgba(221, 237, 248, 0.9);
     margin-right: 0px;
-    box-sizing: border-box;
-    border: 1px solid black;
-    display: flex;
+    border: 1px solid rgb(195, 233, 255);
     margin-left: 50%;
-    height: 800px;
+    height: 955px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    text-align: center;
 }
+p{
+}
+
 #header1{
-    margin-left: 14%;
+    margin-left: 0px
 }
 #div2{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    margin-top: 20%;
+
 }
 #div3{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+
 }
