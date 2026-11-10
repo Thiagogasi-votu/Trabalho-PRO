@@ -18,17 +18,12 @@ margin-bottom: 0px;
     margin-bottom: 0px;
     margin-right: 0px;
     text-align: center;
+    box-shadow: 0px 0px 100px 50px rgba(221, 237, 248, 0.9);
 }
-p{
-}
-
 #header1{
     margin-left: 0px
 }
 #div2{
     margin-top: 20%;
-
-}
-#div3{
 
 }

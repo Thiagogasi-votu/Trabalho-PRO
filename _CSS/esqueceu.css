@@ -1,0 +1,25 @@
+body{
+    background-image: url("../_IMAGE/shur-shu-kKvQJ6rK6S4-unsplash.jpg");
+    background-position: auto;
+background-repeat: no-repeat;
+background-size: cover;
+margin-right: 0px;
+margin-top: 0px;
+margin-bottom: 0px; 
+}
+#div1{
+    background-color: rgba(221, 237, 248, 0.9);
+    border: 1px solid rgb(195, 233, 255);
+    margin-left: 30%;
+    margin-top: 5%;
+    margin-bottom: 50px;
+    margin-right: 30%;
+    text-align: center;
+    border-radius: 5%;
+}
+#div2{
+    margin-top: 20%;
+}
+#header1{
+    margin-left: 0px
+}
