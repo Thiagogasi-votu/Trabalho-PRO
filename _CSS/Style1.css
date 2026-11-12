@@ -1,14 +1,15 @@
-body{
-background-image: url("../_IMAGE/shur-shu-kKvQJ6rK6S4-unsplash.jpg");
-background-position: auto;
-background-repeat: no-repeat;
-background-size: cover;
-margin-right: 0px;
-margin-top: 0px;
-margin-bottom: 0px; 
+body {
+    background-image: url("../_IMAGE/shur-shu-kKvQJ6rK6S4-unsplash.jpg");
+    background-position: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 
 }
-#div1{
+
+#div1 {
     background-color: rgba(221, 237, 248, 0.9);
     margin-right: 0px;
     border: 1px solid rgb(195, 233, 255);
@@ -20,10 +21,12 @@ margin-bottom: 0px;
     text-align: center;
     box-shadow: 0px 0px 100px 50px rgba(221, 237, 248, 0.9);
 }
-#header1{
+
+#header1 {
     margin-left: 0px
 }
-#div2{
+
+#div2 {
     margin-top: 20%;
 
 }
